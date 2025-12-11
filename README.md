@@ -1,5 +1,6 @@
 # SimonSayGame:
 Live Preview — https://niteshsingh95.github.io/SimonSayGame/
+
 Project Structure:
 ├── index.html
 ├── style.css
@@ -14,6 +15,7 @@ Project Structure:
 Author
 Nitesh Singh
 Final-year B.Tech CSE student passionate about building interactive web apps.
+
 GitHub Profile :https://github.com/Niteshsingh95
 
 
